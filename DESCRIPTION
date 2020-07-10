@@ -1,0 +1,11 @@
+Package: issatest
+Type: Package
+Title: Funny functions on funny things
+Version: 0.1.0
+Author: Issa Awal
+Maintainer: Issa Awal <issaawal5@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
